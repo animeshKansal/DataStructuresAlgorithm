@@ -1,9 +1,10 @@
 Data Structures Algorithm
 Data Structures Algorithms in Python.
-Array Sequences 
-Stacks Queues and Deques 
-Linked Lists 
-Recursion 
-Trees 
-Searching and Sorting Algorithms
-Graph Algorithms
+
+1) Array Sequences 
+2) Stacks Queues and Deques 
+3) Linked Lists 
+4) Recursion 
+5) Trees 
+6) Searching and Sorting Algorithms
+7)Graph Algorithms
