@@ -7,4 +7,4 @@ Data Structures Algorithms in Python.
 4) Recursion 
 5) Trees 
 6) Searching and Sorting Algorithms
-7)Graph Algorithms
+7) Graph Algorithms
